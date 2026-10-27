@@ -5,6 +5,6 @@
  * Leave them empty to type them into the app on each phone instead.
  */
 window.THALI_CONFIG = {
-  supabaseUrl: "",   // e.g. "https://abcdefghijkl.supabase.co"
-  supabaseKey: ""    // e.g. "sb_publishable_xxxxxxxxxxxxxxxx"
+supabaseUrl: "https://dvfemcigpntvkpusxqwl.supabase.co",
+supabaseKey: "sb_publishable_wA28YFActhzUGI5tRE80Gw_5kbzdUzp"
 };
